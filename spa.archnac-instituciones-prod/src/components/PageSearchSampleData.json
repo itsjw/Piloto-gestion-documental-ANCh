@@ -1,0 +1,527 @@
+[
+    {
+        "type": "achn:unidad_simple", 
+        "properties": {
+            "achn:cod_classificacion": "080106_06.A.a_ 100_0023",
+            "achn:numero_ordenamiento": 23,
+            "achn:identificador": "OF.ORD. 2017-1508",
+            "achn:tipo_documental": "Oficio Ordinario",
+            "cm:created": "2017-07-05T09:30:00.000",
+            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+            "achn:fecha_finalizacion": "2017-07-05T09:30:00.000",
+            "cm:name": "Oficios Ordinarios de Transferencia",
+            "mimetype": "application/pdf",
+            "achn:software": "Adobe Acrobat 2017.012.20093",
+            "achn:volumen": 466944,
+            "Soporte": "mixto",
+            "achn:autor": "Sebastián Rivas Anguita",
+            "achn:fea_noderef": "workspace://SpacesStore/12345-678"
+        },
+        "assocs": {
+            "achn:inSerie": [{
+                "type": "achn:serie",
+                "properties": {
+                    "cm:name": "Oficios Ordinarios",
+                    "achn:identificador": "100"
+                }
+            }],
+            "achn:inProducerUnit": [{
+                "type": "achn:unidad_productora",
+                "properties": {
+                    "cm:name": "Dirección",
+                    "achn:identificador": "01.A"
+                }
+            }]
+        }
+    },
+    {
+        "type": "achn:unidad_compuesta", 
+        "properties": {
+            "achn:cod_classificacion": "080106_06.A.a_ 100_0023",
+            "achn:numero_ordenamiento": 23,
+            "achn:identificador": "OF.ORD. 2017-1508",
+            "achn:tipo_documental": "Oficio Ordinario",
+            "cm:created": "2017-07-05T09:30:00.000",
+            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+            "achn:fecha_finalizacion": "2017-07-05T09:30:00.000",
+            "cm:name": "Oficios Ordinarios de Transferencia",
+            "mimetype": "application/pdf",
+            "achn:software": "Adobe Acrobat 2017.012.20093",
+            "achn:volumen": 466944,
+            "Soporte": "mixto",
+            "achn:autor": "Sebastián Rivas Anguita",
+            "achn:fea_noderef": "workspace://SpacesStore/12345-678"
+        },
+        "assocs": {
+            "achn:inSerie": [{
+                "type": "achn:serie",
+                "properties": {
+                    "cm:name": "Oficios Ordinarios",
+                    "achn:identificador": "100"
+                }
+            }],
+            "achn:inProducerUnit": [{
+                "type": "achn:unidad_productora",
+                "properties": {
+                    "cm:name": "Unidad de Auditoría Interna",
+                    "achn:identificador": "02"
+                }
+            }]
+        }
+    },
+    {
+        "type": "achn:unidad_simple", 
+        "properties": {
+            "achn:cod_classificacion": "080106_06.A.a_ 100_0023",
+            "achn:numero_ordenamiento": 23,
+            "achn:identificador": "OF.ORD. 2017-1508",
+            "achn:tipo_documental": "Oficio Ordinario",
+            "cm:created": "2017-07-05T09:30:00.000",
+            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+            "achn:fecha_finalizacion": "2017-07-05T09:30:00.000",
+            "cm:name": "Oficios Ordinarios de Transferencia",
+            "mimetype": "application/pdf",
+            "achn:software": "Adobe Acrobat 2017.012.20093",
+            "achn:volumen": 466944,
+            "Soporte": "mixto",
+            "achn:autor": "Sebastián Rivas Anguita",
+            "achn:fea_noderef": "workspace://SpacesStore/12345-678"
+        },
+        "assocs": {
+            "achn:inSerie": [{
+                "type": "achn:serie",
+                "properties": {
+                    "cm:name": "Oficios Ordinarios",
+                    "achn:identificador": "100"
+                }
+            }],
+            "achn:inProducerUnit": [{
+                "type": "achn:unidad_productora",
+                "properties": {
+                    "cm:name": "Unidad de Auditoría Interna",
+                    "achn:identificador": "02"
+                }
+            }]
+        }
+    },
+    {
+        "type": "achn:unidad_simple", 
+        "properties": {
+            "achn:cod_classificacion": "080106_06.A.a_ 100_0023",
+            "achn:numero_ordenamiento": 23,
+            "achn:identificador": "OF.ORD. 2017-1508",
+            "achn:tipo_documental": "Oficio Ordinario",
+            "cm:created": "2017-07-05T09:30:00.000",
+            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+            "achn:fecha_finalizacion": "2017-07-05T09:30:00.000",
+            "cm:name": "Oficios Ordinarios de Transferencia",
+            "mimetype": "application/pdf",
+            "achn:software": "Adobe Acrobat 2017.012.20093",
+            "achn:volumen": 466944,
+            "Soporte": "mixto",
+            "achn:autor": "Sebastián Rivas Anguita",
+            "achn:fea_noderef": "workspace://SpacesStore/12345-678"
+        },
+        "assocs": {
+            "achn:inSerie": [{
+                "type": "achn:serie",
+                "properties": {
+                    "cm:name": "Oficios Ordinarios",
+                    "achn:identificador": "100"
+                }
+            }],
+            "achn:inProducerUnit": [{
+                "type": "achn:unidad_productora",
+                "properties": {
+                    "cm:name": "Unidad de Auditoría Interna",
+                    "achn:identificador": "02"
+                }
+            }]
+        }
+    },
+    {
+        "type": "achn:unidad_simple", 
+        "properties": {
+            "achn:cod_classificacion": "080106_06.A.a_ 100_0023",
+            "achn:numero_ordenamiento": 23,
+            "achn:identificador": "OF.ORD. 2017-1508",
+            "achn:tipo_documental": "Oficio Ordinario",
+            "cm:created": "2017-07-05T09:30:00.000",
+            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+            "achn:fecha_finalizacion": "2017-07-05T09:30:00.000",
+            "cm:name": "Oficios Ordinarios de Transferencia",
+            "mimetype": "application/pdf",
+            "achn:software": "Adobe Acrobat 2017.012.20093",
+            "achn:volumen": 466944,
+            "Soporte": "mixto",
+            "achn:autor": "Sebastián Rivas Anguita",
+            "achn:fea_noderef": "workspace://SpacesStore/12345-678"
+        },
+        "assocs": {
+            "achn:inSerie": [{
+                "type": "achn:serie",
+                "properties": {
+                    "cm:name": "Oficios Ordinarios",
+                    "achn:identificador": "100"
+                }
+            }],
+            "achn:inProducerUnit": [{
+                "type": "achn:unidad_productora",
+                "properties": {
+                    "cm:name": "Unidad de Auditoría Interna",
+                    "achn:identificador": "02"
+                }
+            }]
+        }
+    },
+    {
+        "type": "achn:unidad_simple", 
+        "properties": {
+            "achn:cod_classificacion": "080106_06.A.a_ 100_0023",
+            "achn:numero_ordenamiento": 23,
+            "achn:identificador": "OF.ORD. 2017-1508",
+            "achn:tipo_documental": "Oficio Ordinario",
+            "cm:created": "2017-07-05T09:30:00.000",
+            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+            "achn:fecha_finalizacion": "2017-07-05T09:30:00.000",
+            "cm:name": "Oficios Ordinarios de Transferencia",
+            "mimetype": "application/pdf",
+            "achn:software": "Adobe Acrobat 2017.012.20093",
+            "achn:volumen": 466944,
+            "Soporte": "mixto",
+            "achn:autor": "Sebastián Rivas Anguita",
+            "achn:fea_noderef": "workspace://SpacesStore/12345-678"
+        },
+        "assocs": {
+            "achn:inSerie": [{
+                "type": "achn:serie",
+                "properties": {
+                    "cm:name": "Oficios Ordinarios",
+                    "achn:identificador": "100"
+                }
+            }],
+            "achn:inProducerUnit": [{
+                "type": "achn:unidad_productora",
+                "properties": {
+                    "cm:name": "Unidad de Auditoría Interna",
+                    "achn:identificador": "02"
+                }
+            }]
+        }
+    },
+    {
+        "type": "achn:unidad_simple", 
+        "properties": {
+            "achn:cod_classificacion": "080106_06.A.a_ 100_0023",
+            "achn:numero_ordenamiento": 23,
+            "achn:identificador": "OF.ORD. 2017-1508",
+            "achn:tipo_documental": "Oficio Ordinario",
+            "cm:created": "2017-07-05T09:30:00.000",
+            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+            "achn:fecha_finalizacion": "2017-07-05T09:30:00.000",
+            "cm:name": "Oficios Ordinarios de Transferencia",
+            "mimetype": "application/pdf",
+            "achn:software": "Adobe Acrobat 2017.012.20093",
+            "achn:volumen": 466944,
+            "Soporte": "mixto",
+            "achn:autor": "Sebastián Rivas Anguita",
+            "achn:fea_noderef": "workspace://SpacesStore/12345-678"
+        },
+        "assocs": {
+            "achn:inSerie": [{
+                "type": "achn:serie",
+                "properties": {
+                    "cm:name": "Oficios Ordinarios",
+                    "achn:identificador": "100"
+                }
+            }],
+            "achn:inProducerUnit": [{
+                "type": "achn:unidad_productora",
+                "properties": {
+                    "cm:name": "Unidad de Auditoría Interna",
+                    "achn:identificador": "02"
+                }
+            }]
+        }
+    },
+    {
+        "type": "achn:unidad_simple", 
+        "properties": {
+            "achn:cod_classificacion": "080106_06.A.a_ 100_0023",
+            "achn:numero_ordenamiento": 23,
+            "achn:identificador": "OF.ORD. 2017-1508",
+            "achn:tipo_documental": "Oficio Ordinario",
+            "cm:created": "2017-07-05T09:30:00.000",
+            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+            "achn:fecha_finalizacion": "2017-07-05T09:30:00.000",
+            "cm:name": "Oficios Ordinarios de Transferencia",
+            "mimetype": "application/pdf",
+            "achn:software": "Adobe Acrobat 2017.012.20093",
+            "achn:volumen": 466944,
+            "Soporte": "mixto",
+            "achn:autor": "Sebastián Rivas Anguita",
+            "achn:fea_noderef": "workspace://SpacesStore/12345-678"
+        },
+        "assocs": {
+            "achn:inSerie": [{
+                "type": "achn:serie",
+                "properties": {
+                    "cm:name": "Oficios Ordinarios",
+                    "achn:identificador": "100"
+                }
+            }],
+            "achn:inProducerUnit": [{
+                "type": "achn:unidad_productora",
+                "properties": {
+                    "cm:name": "Unidad de Auditoría Interna",
+                    "achn:identificador": "02"
+                }
+            }]
+        }
+    },
+    {
+        "type": "achn:unidad_simple", 
+        "properties": {
+            "achn:cod_classificacion": "080106_06.A.a_ 100_0023",
+            "achn:numero_ordenamiento": 23,
+            "achn:identificador": "OF.ORD. 2017-1508",
+            "achn:tipo_documental": "Oficio Ordinario",
+            "cm:created": "2017-07-05T09:30:00.000",
+            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+            "achn:fecha_finalizacion": "2017-07-05T09:30:00.000",
+            "cm:name": "Oficios Ordinarios de Transferencia",
+            "mimetype": "application/pdf",
+            "achn:software": "Adobe Acrobat 2017.012.20093",
+            "achn:volumen": 466944,
+            "Soporte": "mixto",
+            "achn:autor": "Sebastián Rivas Anguita",
+            "achn:fea_noderef": "workspace://SpacesStore/12345-678"
+        },
+        "assocs": {
+            "achn:inSerie": [{
+                "type": "achn:serie",
+                "properties": {
+                    "cm:name": "Oficios Ordinarios",
+                    "achn:identificador": "100"
+                }
+            }],
+            "achn:inProducerUnit": [{
+                "type": "achn:unidad_productora",
+                "properties": {
+                    "cm:name": "Unidad de Auditoría Interna",
+                    "achn:identificador": "02"
+                }
+            }]
+        }
+    },
+    {
+        "type": "achn:unidad_simple", 
+        "properties": {
+            "achn:cod_classificacion": "080106_06.A.a_ 100_0023",
+            "achn:numero_ordenamiento": 23,
+            "achn:identificador": "OF.ORD. 2017-1508",
+            "achn:tipo_documental": "Oficio Ordinario",
+            "cm:created": "2017-07-05T09:30:00.000",
+            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+            "achn:fecha_finalizacion": "2017-07-05T09:30:00.000",
+            "cm:name": "Oficios Ordinarios de Transferencia",
+            "mimetype": "application/pdf",
+            "achn:software": "Adobe Acrobat 2017.012.20093",
+            "achn:volumen": 466944,
+            "Soporte": "mixto",
+            "achn:autor": "Sebastián Rivas Anguita",
+            "achn:fea_noderef": "workspace://SpacesStore/12345-678"
+        },
+        "assocs": {
+            "achn:inSerie": [{
+                "type": "achn:serie",
+                "properties": {
+                    "cm:name": "Oficios Ordinarios",
+                    "achn:identificador": "100"
+                }
+            }],
+            "achn:inProducerUnit": [{
+                "type": "achn:unidad_productora",
+                "properties": {
+                    "cm:name": "Unidad de Auditoría Interna",
+                    "achn:identificador": "02"
+                }
+            }]
+        }
+    },
+    {
+        "type": "achn:unidad_simple", 
+        "properties": {
+            "achn:cod_classificacion": "080106_06.A.a_ 100_0023",
+            "achn:numero_ordenamiento": 23,
+            "achn:identificador": "OF.ORD. 2017-1508",
+            "achn:tipo_documental": "Oficio Ordinario",
+            "cm:created": "2017-07-05T09:30:00.000",
+            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+            "achn:fecha_finalizacion": "2017-07-05T09:30:00.000",
+            "cm:name": "Oficios Ordinarios de Transferencia",
+            "mimetype": "application/pdf",
+            "achn:software": "Adobe Acrobat 2017.012.20093",
+            "achn:volumen": 466944,
+            "Soporte": "mixto",
+            "achn:autor": "Alejando Sepulveda",
+            "achn:fea_noderef": "workspace://SpacesStore/12345-678"
+        },
+        "assocs": {
+            "achn:inSerie": [{
+                "type": "achn:serie",
+                "properties": {
+                    "cm:name": "Oficios Ordinarios",
+                    "achn:identificador": "100"
+                }
+            }],
+            "achn:inProducerUnit": [{
+                "type": "achn:unidad_productora",
+                "properties": {
+                    "cm:name": "Unidad de Auditoría Interna",
+                    "achn:identificador": "02"
+                }
+            }]
+        }
+    },
+    {
+        "type": "achn:unidad_simple", 
+        "properties": {
+            "achn:cod_classificacion": "080106_06.A.a_ 100_0023",
+            "achn:numero_ordenamiento": 23,
+            "achn:identificador": "OF.ORD. 2017-1508",
+            "achn:tipo_documental": "Oficio Ordinario",
+            "cm:created": "2017-07-05T09:30:00.000",
+            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+            "achn:fecha_finalizacion": "2017-07-05T09:30:00.000",
+            "cm:name": "Oficios Ordinarios de Transferencia",
+            "mimetype": "application/pdf",
+            "achn:software": "Adobe Acrobat 2017.012.20093",
+            "achn:volumen": 466944,
+            "Soporte": "mixto",
+            "achn:autor": "Harold Vera Zamora",
+            "achn:fea_noderef": "workspace://SpacesStore/12345-678"
+        },
+        "assocs": {
+            "achn:inSerie": [{
+                "type": "achn:serie",
+                "properties": {
+                    "cm:name": "Oficios Ordinarios",
+                    "achn:identificador": "100"
+                }
+            }],
+            "achn:inProducerUnit": [{
+                "type": "achn:unidad_productora",
+                "properties": {
+                    "cm:name": "Unidad de Auditoría Interna",
+                    "achn:identificador": "02"
+                }
+            }]
+        }
+    },
+    {
+        "type": "achn:unidad_simple", 
+        "properties": {
+            "achn:cod_classificacion": "080106_06.A.a_ 100_0023",
+            "achn:numero_ordenamiento": 23,
+            "achn:identificador": "OF.ORD. 2017-1508",
+            "achn:tipo_documental": "Oficio Ordinario",
+            "cm:created": "2017-07-05T09:30:00.000",
+            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+            "achn:fecha_finalizacion": "2017-07-05T09:30:00.000",
+            "cm:name": "Oficios Ordinarios de Transferencia",
+            "mimetype": "application/pdf",
+            "achn:software": "Adobe Acrobat 2017.012.20093",
+            "achn:volumen": 466944,
+            "Soporte": "mixto",
+            "achn:autor": "Harold Vera Zamora",
+            "achn:fea_noderef": "workspace://SpacesStore/12345-678"
+        },
+        "assocs": {
+            "achn:inSerie": [{
+                "type": "achn:serie",
+                "properties": {
+                    "cm:name": "Oficios Ordinarios",
+                    "achn:identificador": "100"
+                }
+            }],
+            "achn:inProducerUnit": [{
+                "type": "achn:unidad_productora",
+                "properties": {
+                    "cm:name": "Unidad de Auditoría Interna",
+                    "achn:identificador": "02"
+                }
+            }]
+        }
+    },
+    {
+        "type": "achn:unidad_simple", 
+        "properties": {
+            "achn:cod_classificacion": "080106_06.A.a_ 100_0023",
+            "achn:numero_ordenamiento": 23,
+            "achn:identificador": "OF.ORD. 2017-1508",
+            "achn:tipo_documental": "Oficio Ordinario",
+            "cm:created": "2017-07-05T09:30:00.000",
+            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+            "achn:fecha_finalizacion": "2017-07-05T09:30:00.000",
+            "cm:name": "Oficios Ordinarios de Transferencia",
+            "mimetype": "application/pdf",
+            "achn:software": "Adobe Acrobat 2017.012.20093",
+            "achn:volumen": 466944,
+            "Soporte": "mixto",
+            "achn:autor": "Enrique Lazo Ureta",
+            "achn:fea_noderef": "workspace://SpacesStore/12345-678"
+        },
+        "assocs": {
+            "achn:inSerie": [{
+                "type": "achn:serie",
+                "properties": {
+                    "cm:name": "Oficios Ordinarios",
+                    "achn:identificador": "100"
+                }
+            }],
+            "achn:inProducerUnit": [{
+                "type": "achn:unidad_productora",
+                "properties": {
+                    "cm:name": "Unidad de Auditoría Interna",
+                    "achn:identificador": "02"
+                }
+            }]
+        }
+    },
+    {
+        "type": "achn:unidad_simple", 
+        "properties": {
+            "achn:cod_classificacion": "080106_06.A.a_ 100_0023",
+            "achn:numero_ordenamiento": 23,
+            "achn:identificador": "OF.ORD. 2017-1508",
+            "achn:tipo_documental": "Oficio Ordinario",
+            "cm:created": "2017-07-05T09:30:00.000",
+            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+            "achn:fecha_finalizacion": "2017-07-05T09:30:00.000",
+            "cm:name": "Oficios Ordinarios de Transferencia",
+            "mimetype": "application/pdf",
+            "achn:software": "Adobe Acrobat 2017.012.20093",
+            "achn:volumen": 466944,
+            "Soporte": "mixto",
+            "achn:autor": "Enrique Lazo Ureta",
+            "achn:fea_noderef": "workspace://SpacesStore/12345-678"
+        },
+        "assocs": {
+            "achn:inSerie": [{
+                "type": "achn:serie",
+                "properties": {
+                    "cm:name": "Oficios Ordinarios",
+                    "achn:identificador": "100"
+                }
+            }],
+            "achn:inProducerUnit": [{
+                "type": "achn:unidad_productora",
+                "properties": {
+                    "cm:name": "Unidad de Auditoría Interna",
+                    "achn:identificador": "02"
+                }
+            }]
+        }
+    }
+]

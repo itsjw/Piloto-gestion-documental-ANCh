@@ -1,0 +1,23 @@
+{
+  "name": "alicia-achprod",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "alicia-common": "git+ssh://git@bitbucket.org/teamdox/webclient.dox.platform-core.lib.common.git",
+    "alicia-ui": "git+ssh://git@bitbucket.org/teamdox/webclient.dox.platform-core.ui.template.git",
+    "react": "^15.6.1",
+    "react-bootstrap": "^0.31.3",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.11"
+  },
+  "scripts": {
+    "start": "PORT=3009 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "i18n": "node node_modules/aliciadev-utils/lib/i18n.js"
+  },
+  "devDependencies": {
+    "aliciadev-utils": "git+ssh://git@bitbucket.org/teamdox/webclient.dox.platform-dev.utils.git"
+  }
+}

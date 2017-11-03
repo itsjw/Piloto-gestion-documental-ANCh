@@ -1,0 +1,8 @@
+{
+    "login_header": "Sistema de Gestión de Documentos de Archivo",
+    "username": "Usuario",
+    "password": "Clave",
+    "login_in": "Acceder",
+    "validation_required": "El campo es requerido",
+    "login_fail": "Usuario o contraseña incorrectos"
+}

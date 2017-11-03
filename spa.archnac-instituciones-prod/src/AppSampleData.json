@@ -1,0 +1,475 @@
+{
+    "totalRecords": 16,
+    "totalRecordsUpper": 16,
+    "startIndex": 0,
+    "numberFound": 16,
+    "facets":
+    {
+        "@{http:\/\/www.alfresco.org\/model\/content\/1.0}content.size":
+        [
+        ],
+        "@{http:\/\/www.alfresco.org\/model\/content\/1.0}modified":
+        [
+        ],
+        "@{http:\/\/www.alfresco.org\/model\/content\/1.0}created":
+        [
+        ]
+    },
+   "highlighting":
+   {
+   },
+    "items":
+    [
+        {
+         "node": {"isLink":false,"nodeRef":"workspace:\/\/SpacesStore\/321ccb07-068c-4a99-880a-f06ecc23eb0b","permissions":{"inherited":true,"roles":["ALLOWED;GROUP_site_gmf_SiteCollaborator;SiteCollaborator;INHERITED","ALLOWED;GROUP_site_gmf_SiteConsumer;SiteConsumer;INHERITED","ALLOWED;GROUP_site_gmf_SiteContributor;SiteContributor;INHERITED","ALLOWED;GROUP_site_gmf_SiteManager;SiteManager;INHERITED"],"user":{"Delete":true,"Write":true,"CancelCheckOut":false,"ChangePermissions":true,"CreateChildren":true,"Unlock":true}},"isLocked":true,"aspects":["cm:lockable","cm:auditable","sys:referenceable","sys:localized"],"isContainer":true,"type":"cm:folder","properties":{"cm:creator":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:modifier":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:created":{"iso8601":"2017-08-28T21:32:46.767Z","value":"Mon Aug 28 18:32:46 CLST 2017"},"sys:store-protocol":null,"sys:store-identifier":null,"sys:node-uuid":null,"cm:lockType":"READ_ONLY_LOCK","cm:lockOwner":{"firstName":"Administrator","lastName":"","displayName":"Administrator","userName":"admin"},"cm:lockLifetime":"PERSISTENT","cm:name":"Oper-420010217600","sys:node-dbid":null,"sys:locale":null,"cm:modified":{"iso8601":"2017-08-28T21:32:46.874Z","value":"Mon Aug 28 18:32:46 CLST 2017"}}},
+            "nodeRef": "workspace:\/\/SpacesStore\/321ccb07-068c-4a99-880a-f06ecc23eb0b",
+            "type": "folder",
+            "name": "Oper-420010217600",
+            "displayName": "Oper-420010217600",
+            "description": "",
+            "modifiedOn": "2017-08-28T18:32:46.874-03:00",
+            "modifiedByUser": "elazo",
+            "modifiedBy": "Enrique Lazo Ureta",
+            "fromDate": "",
+            "size": -1,
+            "mimetype": "application\/octet-stream",
+            "site":
+            {
+                "shortName": "gmf",
+                "title": "GM Financial"
+            },
+            "container": "inboxLibrary",
+            "path": "Carga FEI\/2017\/agosto\/28",
+            "lastThumbnailModification":
+            [
+            ],
+            "tags": [],
+         "highlighting":
+            {
+            }
+        },
+        {
+         "node": {"isLink":false,"nodeRef":"workspace:\/\/SpacesStore\/d5e71087-4ce3-4c7f-8a20-9dab08fb2f15","permissions":{"inherited":true,"roles":["ALLOWED;GROUP_SITE_SANTANDER_REVISOR_ALZAMIENTOS;SiteCollaborator;INHERITED","ALLOWED;GROUP_site_santander_SiteManager;SiteManager;INHERITED","ALLOWED;GROUP_SITE_SANTANDER_FEI_MANAGER;SiteCollaborator;INHERITED"],"user":{"Delete":true,"Write":true,"CancelCheckOut":false,"ChangePermissions":true,"CreateChildren":true,"Unlock":true}},"isLocked":true,"aspects":["cm:lockable","cm:auditable","sys:referenceable","sys:localized"],"isContainer":true,"type":"cm:folder","properties":{"cm:creator":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:modifier":{"firstName":"Administrator","lastName":"","displayName":"Administrator","userName":"admin"},"cm:created":{"iso8601":"2017-09-01T16:24:17.481Z","value":"Fri Sep 01 13:24:17 CLST 2017"},"sys:store-protocol":null,"sys:store-identifier":null,"sys:node-uuid":null,"cm:lockType":"NODE_LOCK","cm:lockOwner":{"firstName":"Administrator","lastName":"","displayName":"Administrator","userName":"admin"},"cm:lockLifetime":"PERSISTENT","cm:name":"Oper-420010217601","sys:node-dbid":null,"sys:locale":null,"cm:modified":{"iso8601":"2017-09-04T21:28:12.970Z","value":"Mon Sep 04 18:28:12 CLST 2017"}}},
+            "nodeRef": "workspace:\/\/SpacesStore\/d5e71087-4ce3-4c7f-8a20-9dab08fb2f15",
+            "type": "folder",
+            "name": "Oper-420010217601",
+            "displayName": "Oper-420010217601",
+            "description": "",
+            "modifiedOn": "2017-09-04T18:28:12.970-03:00",
+            "modifiedByUser": "admin",
+            "modifiedBy": "Administrator ",
+            "fromDate": "",
+            "size": -1,
+            "mimetype": "application\/octet-stream",
+            "site":
+            {
+                "shortName": "santander",
+                "title": "Santander"
+            },
+            "container": "inboxLibrary",
+            "path": "Carga FEI\/2017\/septiembre\/01",
+            "lastThumbnailModification":
+            [
+            ],
+            "tags": [],
+         "highlighting":
+            {
+            }
+        },
+        {
+         "node": {"isLink":false,"nodeRef":"workspace:\/\/SpacesStore\/afb35876-64a6-4658-a56a-6728ead9dba6","permissions":{"inherited":true,"roles":["ALLOWED;GROUP_SITE_SANTANDER_REVISOR_ALZAMIENTOS;SiteCollaborator;INHERITED","ALLOWED;GROUP_site_santander_SiteManager;SiteManager;INHERITED","ALLOWED;GROUP_SITE_SANTANDER_FEI_MANAGER;SiteCollaborator;INHERITED"],"user":{"Delete":false,"Write":true,"CancelCheckOut":false,"ChangePermissions":false,"CreateChildren":true,"Unlock":false}},"isLocked":true,"aspects":["cm:lockable","cm:auditable","sys:referenceable","sys:localized"],"isContainer":true,"type":"cm:folder","properties":{"cm:creator":{"firstName":"Michel","lastName":"David Suárez","displayName":"Michel David Suárez","userName":"michel.david"},"cm:modifier":{"firstName":"Michel","lastName":"David Suárez","displayName":"Michel David Suárez","userName":"michel.david"},"cm:created":{"iso8601":"2017-09-01T19:21:34.602Z","value":"Fri Sep 01 16:21:34 CLST 2017"},"sys:store-protocol":null,"sys:store-identifier":null,"sys:node-uuid":null,"cm:lockType":"READ_ONLY_LOCK","cm:lockOwner":{"firstName":"Administrator","lastName":"","displayName":"Administrator","userName":"admin"},"cm:lockLifetime":"PERSISTENT","cm:name":"Oper-650020153002","sys:node-dbid":null,"sys:locale":null,"cm:modified":{"iso8601":"2017-09-01T19:21:34.780Z","value":"Fri Sep 01 16:21:34 CLST 2017"}}},
+            "nodeRef": "workspace:\/\/SpacesStore\/afb35876-64a6-4658-a56a-6728ead9dba6",
+            "type": "folder",
+            "name": "Oper-650020153002",
+            "displayName": "Oper-650020153002",
+            "description": "",
+            "modifiedOn": "2017-09-01T16:21:34.780-03:00",
+            "modifiedByUser": "michel.david",
+            "modifiedBy": "Michel David Su\u00e1rez",
+            "fromDate": "",
+            "size": -1,
+            "mimetype": "application\/octet-stream",
+            "site":
+            {
+                "shortName": "santander",
+                "title": "Santander"
+            },
+            "container": "inboxLibrary",
+            "path": "Carga FEI\/2017\/septiembre\/01",
+            "lastThumbnailModification":
+            [
+            ],
+            "tags": [],
+         "highlighting":
+            {
+            }
+        },
+        {
+         "node": {"isLink":false,"nodeRef":"workspace:\/\/SpacesStore\/3308053c-83ae-4ae9-bf13-4853758cb27d","permissions":{"inherited":true,"roles":["ALLOWED;GROUP_SITE_SANTANDER_REVISOR_ALZAMIENTOS;SiteCollaborator;INHERITED","ALLOWED;GROUP_site_santander_SiteManager;SiteManager;INHERITED","ALLOWED;GROUP_SITE_SANTANDER_FEI_MANAGER;SiteCollaborator;INHERITED"],"user":{"Delete":false,"Write":true,"CancelCheckOut":false,"ChangePermissions":false,"CreateChildren":true,"Unlock":false}},"isLocked":true,"aspects":["cm:lockable","cm:auditable","sys:referenceable","sys:localized"],"isContainer":true,"type":"cm:folder","properties":{"cm:creator":{"firstName":"Michel","lastName":"David Suárez","displayName":"Michel David Suárez","userName":"michel.david"},"cm:modifier":{"firstName":"Michel","lastName":"David Suárez","displayName":"Michel David Suárez","userName":"michel.david"},"cm:created":{"iso8601":"2017-08-14T15:07:45.005Z","value":"Mon Aug 14 12:07:45 CLST 2017"},"sys:store-protocol":null,"sys:store-identifier":null,"sys:node-uuid":null,"cm:lockType":"READ_ONLY_LOCK","cm:lockOwner":{"firstName":"Administrator","lastName":"","displayName":"Administrator","userName":"admin"},"cm:lockLifetime":"PERSISTENT","cm:name":"Oper-420010217600","sys:node-dbid":null,"sys:locale":null,"cm:modified":{"iso8601":"2017-08-14T15:07:53.691Z","value":"Mon Aug 14 12:07:53 CLST 2017"}}},
+            "nodeRef": "workspace:\/\/SpacesStore\/3308053c-83ae-4ae9-bf13-4853758cb27d",
+            "type": "folder",
+            "name": "Oper-420010217600",
+            "displayName": "Oper-420010217600",
+            "description": "",
+            "modifiedOn": "2017-08-14T12:07:53.691-03:00",
+            "modifiedByUser": "michel.david",
+            "modifiedBy": "Michel David Su\u00e1rez",
+            "fromDate": "",
+            "size": -1,
+            "mimetype": "application\/octet-stream",
+            "site":
+            {
+                "shortName": "santander",
+                "title": "Santander"
+            },
+            "container": "inboxLibrary",
+            "path": "Carga FEI\/2017\/agosto\/14",
+            "lastThumbnailModification":
+            [
+            ],
+            "tags": [],
+         "highlighting":
+            {
+            }
+        },
+        {
+         "node": {"isLink":false,"nodeRef":"workspace:\/\/SpacesStore\/8e20755a-68e6-4979-90d6-1eb8ac420034","permissions":{"inherited":true,"roles":["ALLOWED;GROUP_SITE_SANTANDER_REVISOR_ALZAMIENTOS;SiteCollaborator;INHERITED","ALLOWED;GROUP_site_santander_SiteManager;SiteManager;INHERITED","ALLOWED;GROUP_SITE_SANTANDER_FEI_MANAGER;SiteCollaborator;INHERITED"],"user":{"Delete":true,"Write":true,"CancelCheckOut":false,"ChangePermissions":true,"CreateChildren":true,"Unlock":true}},"isLocked":true,"aspects":["cm:lockable","cm:auditable","sys:referenceable","sys:localized"],"isContainer":true,"type":"cm:folder","properties":{"cm:creator":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:modifier":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:created":{"iso8601":"2017-08-25T13:51:15.808Z","value":"Fri Aug 25 10:51:15 CLST 2017"},"sys:store-protocol":null,"sys:store-identifier":null,"sys:node-uuid":null,"cm:lockType":"READ_ONLY_LOCK","cm:lockOwner":{"firstName":"Administrator","lastName":"","displayName":"Administrator","userName":"admin"},"cm:lockLifetime":"PERSISTENT","cm:name":"Oper-420010217600","sys:node-dbid":null,"sys:locale":null,"cm:modified":{"iso8601":"2017-08-25T13:51:16.275Z","value":"Fri Aug 25 10:51:16 CLST 2017"}}},
+            "nodeRef": "workspace:\/\/SpacesStore\/8e20755a-68e6-4979-90d6-1eb8ac420034",
+            "type": "folder",
+            "name": "Oper-420010217600",
+            "displayName": "Oper-420010217600",
+            "description": "",
+            "modifiedOn": "2017-08-25T10:51:16.275-03:00",
+            "modifiedByUser": "elazo",
+            "modifiedBy": "Enrique Lazo Ureta",
+            "fromDate": "",
+            "size": -1,
+            "mimetype": "application\/octet-stream",
+            "site":
+            {
+                "shortName": "santander",
+                "title": "Santander"
+            },
+            "container": "inboxLibrary",
+            "path": "Carga FEI\/2017\/agosto\/25",
+            "lastThumbnailModification":
+            [
+            ],
+            "tags": [],
+         "highlighting":
+            {
+            }
+        },
+        {
+         "node": {"isLink":false,"nodeRef":"workspace:\/\/SpacesStore\/408c8992-bf68-4125-8508-b2698a3c9d2f","permissions":{"inherited":true,"roles":["ALLOWED;GROUP_SITE_SANTANDER_REVISOR_ALZAMIENTOS;SiteCollaborator;INHERITED","ALLOWED;GROUP_site_santander_SiteManager;SiteManager;INHERITED","ALLOWED;GROUP_SITE_SANTANDER_FEI_MANAGER;SiteCollaborator;INHERITED"],"user":{"Delete":true,"Write":true,"CancelCheckOut":false,"ChangePermissions":true,"CreateChildren":true,"Unlock":true}},"isLocked":true,"aspects":["cm:lockable","cm:auditable","sys:referenceable","sys:localized"],"isContainer":true,"type":"cm:folder","properties":{"cm:creator":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:modifier":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:created":{"iso8601":"2017-09-08T00:48:20.713Z","value":"Thu Sep 07 21:48:20 CLST 2017"},"sys:store-protocol":null,"sys:store-identifier":null,"sys:node-uuid":null,"cm:lockType":"READ_ONLY_LOCK","cm:lockOwner":{"firstName":"Administrator","lastName":"","displayName":"Administrator","userName":"admin"},"cm:lockLifetime":"PERSISTENT","cm:name":"Oper-420010217602","sys:node-dbid":null,"sys:locale":null,"cm:modified":{"iso8601":"2017-09-08T00:56:28.816Z","value":"Thu Sep 07 21:56:28 CLST 2017"}}},
+            "nodeRef": "workspace:\/\/SpacesStore\/408c8992-bf68-4125-8508-b2698a3c9d2f",
+            "type": "folder",
+            "name": "Oper-420010217602",
+            "displayName": "Oper-420010217602",
+            "description": "",
+            "modifiedOn": "2017-09-07T21:56:28.816-03:00",
+            "modifiedByUser": "elazo",
+            "modifiedBy": "Enrique Lazo Ureta",
+            "fromDate": "",
+            "size": -1,
+            "mimetype": "application\/octet-stream",
+            "site":
+            {
+                "shortName": "santander",
+                "title": "Santander"
+            },
+            "container": "inboxLibrary",
+            "path": "Carga FEI\/2017\/septiembre\/07",
+            "lastThumbnailModification":
+            [
+            ],
+            "tags": [],
+         "highlighting":
+            {
+            }
+        },
+        {
+         "node": {"isLink":false,"nodeRef":"workspace:\/\/SpacesStore\/763c99de-4457-4011-92bc-966306f51ca7","permissions":{"inherited":true,"roles":["ALLOWED;GROUP_SITE_SANTANDER_REVISOR_ALZAMIENTOS;SiteCollaborator;INHERITED","ALLOWED;GROUP_site_santander_SiteManager;SiteManager;INHERITED","ALLOWED;GROUP_SITE_SANTANDER_FEI_MANAGER;SiteCollaborator;INHERITED"],"user":{"Delete":false,"Write":true,"CancelCheckOut":false,"ChangePermissions":false,"CreateChildren":true,"Unlock":false}},"isLocked":true,"aspects":["cm:lockable","cm:auditable","sys:referenceable","sys:localized"],"isContainer":true,"type":"cm:folder","properties":{"cm:creator":{"firstName":"Michel","lastName":"David Suárez","displayName":"Michel David Suárez","userName":"michel.david"},"cm:modifier":{"firstName":"Michel","lastName":"David Suárez","displayName":"Michel David Suárez","userName":"michel.david"},"cm:created":{"iso8601":"2017-08-08T14:18:37.319Z","value":"Tue Aug 08 10:18:37 CLT 2017"},"sys:store-protocol":null,"sys:store-identifier":null,"sys:node-uuid":null,"cm:lockType":"READ_ONLY_LOCK","cm:lockOwner":{"firstName":"Administrator","lastName":"","displayName":"Administrator","userName":"admin"},"cm:lockLifetime":"PERSISTENT","cm:name":"Oper-420010217600","sys:node-dbid":null,"sys:locale":null,"cm:modified":{"iso8601":"2017-08-08T16:53:50.948Z","value":"Tue Aug 08 12:53:50 CLT 2017"}}},
+            "nodeRef": "workspace:\/\/SpacesStore\/763c99de-4457-4011-92bc-966306f51ca7",
+            "type": "folder",
+            "name": "Oper-420010217600",
+            "displayName": "Oper-420010217600",
+            "description": "",
+            "modifiedOn": "2017-08-08T12:53:50.948-04:00",
+            "modifiedByUser": "michel.david",
+            "modifiedBy": "Michel David Su\u00e1rez",
+            "fromDate": "",
+            "size": -1,
+            "mimetype": "application\/octet-stream",
+            "site":
+            {
+                "shortName": "santander",
+                "title": "Santander"
+            },
+            "container": "inboxLibrary",
+            "path": "Carga FEI\/2017\/agosto\/08",
+            "lastThumbnailModification":
+            [
+            ],
+            "tags": [],
+         "highlighting":
+            {
+            }
+        },
+        {
+         "node": {"isLink":false,"nodeRef":"workspace:\/\/SpacesStore\/9efb1293-07ab-4130-a17e-495f7815a392","permissions":{"inherited":true,"roles":["ALLOWED;GROUP_SITE_SANTANDER_REVISOR_ALZAMIENTOS;SiteCollaborator;INHERITED","ALLOWED;GROUP_site_santander_SiteManager;SiteManager;INHERITED","ALLOWED;GROUP_SITE_SANTANDER_FEI_MANAGER;SiteCollaborator;INHERITED"],"user":{"Delete":true,"Write":true,"CancelCheckOut":false,"ChangePermissions":true,"CreateChildren":true,"Unlock":true}},"isLocked":true,"aspects":["cm:lockable","cm:auditable","sys:referenceable","sys:localized"],"isContainer":true,"type":"cm:folder","properties":{"cm:creator":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:modifier":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:created":{"iso8601":"2017-08-24T20:25:33.519Z","value":"Thu Aug 24 17:25:33 CLST 2017"},"sys:store-protocol":null,"sys:store-identifier":null,"sys:node-uuid":null,"cm:lockType":"READ_ONLY_LOCK","cm:lockOwner":{"firstName":"Administrator","lastName":"","displayName":"Administrator","userName":"admin"},"cm:lockLifetime":"PERSISTENT","cm:name":"Oper-420010217600","sys:node-dbid":null,"sys:locale":null,"cm:modified":{"iso8601":"2017-08-24T20:25:34.004Z","value":"Thu Aug 24 17:25:34 CLST 2017"}}},
+            "nodeRef": "workspace:\/\/SpacesStore\/9efb1293-07ab-4130-a17e-495f7815a392",
+            "type": "folder",
+            "name": "Oper-420010217600",
+            "displayName": "Oper-420010217600",
+            "description": "",
+            "modifiedOn": "2017-08-24T17:25:34.004-03:00",
+            "modifiedByUser": "elazo",
+            "modifiedBy": "Enrique Lazo Ureta",
+            "fromDate": "",
+            "size": -1,
+            "mimetype": "application\/octet-stream",
+            "site":
+            {
+                "shortName": "santander",
+                "title": "Santander"
+            },
+            "container": "inboxLibrary",
+            "path": "Carga FEI\/2017\/agosto\/24",
+            "lastThumbnailModification":
+            [
+            ],
+            "tags": [],
+         "highlighting":
+            {
+            }
+        },
+        {
+         "node": {"isLink":false,"nodeRef":"workspace:\/\/SpacesStore\/377d2c8e-c3e3-4ec3-962c-234c9a498d19","permissions":{"inherited":true,"roles":["ALLOWED;GROUP_SITE_SANTANDER_REVISOR_ALZAMIENTOS;SiteCollaborator;INHERITED","ALLOWED;GROUP_site_santander_SiteManager;SiteManager;INHERITED","ALLOWED;GROUP_SITE_SANTANDER_FEI_MANAGER;SiteCollaborator;INHERITED"],"user":{"Delete":false,"Write":true,"CancelCheckOut":false,"ChangePermissions":false,"CreateChildren":true,"Unlock":false}},"isLocked":true,"aspects":["cm:lockable","cm:auditable","sys:referenceable","sys:localized"],"isContainer":true,"type":"cm:folder","properties":{"cm:creator":{"firstName":"Michel","lastName":"David Suárez","displayName":"Michel David Suárez","userName":"michel.david"},"cm:modifier":{"firstName":"Michel","lastName":"David Suárez","displayName":"Michel David Suárez","userName":"michel.david"},"cm:created":{"iso8601":"2017-08-31T21:09:39.760Z","value":"Thu Aug 31 18:09:39 CLST 2017"},"sys:store-protocol":null,"sys:store-identifier":null,"sys:node-uuid":null,"cm:lockType":"READ_ONLY_LOCK","cm:lockOwner":{"firstName":"Administrator","lastName":"","displayName":"Administrator","userName":"admin"},"cm:lockLifetime":"PERSISTENT","cm:name":"Oper-420010493381","sys:node-dbid":null,"sys:locale":null,"cm:modified":{"iso8601":"2017-08-31T21:09:39.972Z","value":"Thu Aug 31 18:09:39 CLST 2017"}}},
+            "nodeRef": "workspace:\/\/SpacesStore\/377d2c8e-c3e3-4ec3-962c-234c9a498d19",
+            "type": "folder",
+            "name": "Oper-420010493381",
+            "displayName": "Oper-420010493381",
+            "description": "",
+            "modifiedOn": "2017-08-31T18:09:39.972-03:00",
+            "modifiedByUser": "michel.david",
+            "modifiedBy": "Michel David Su\u00e1rez",
+            "fromDate": "",
+            "size": -1,
+            "mimetype": "application\/octet-stream",
+            "site":
+            {
+                "shortName": "santander",
+                "title": "Santander"
+            },
+            "container": "inboxLibrary",
+            "path": "Carga FEI\/2017\/agosto\/31",
+            "lastThumbnailModification":
+            [
+            ],
+            "tags": [],
+         "highlighting":
+            {
+            }
+        },
+        {
+         "node": {"isLink":false,"nodeRef":"workspace:\/\/SpacesStore\/6473431f-7311-4e22-8f93-c7c202980e4d","permissions":{"inherited":true,"roles":["ALLOWED;GROUP_SITE_SANTANDER_REVISOR_ALZAMIENTOS;SiteCollaborator;INHERITED","ALLOWED;GROUP_site_santander_SiteManager;SiteManager;INHERITED","ALLOWED;GROUP_SITE_SANTANDER_FEI_MANAGER;SiteCollaborator;INHERITED"],"user":{"Delete":true,"Write":true,"CancelCheckOut":false,"ChangePermissions":true,"CreateChildren":true,"Unlock":true}},"isLocked":true,"aspects":["cm:lockable","cm:auditable","sys:referenceable","sys:localized"],"isContainer":true,"type":"cm:folder","properties":{"cm:creator":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:modifier":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:created":{"iso8601":"2017-09-12T16:51:43.193Z","value":"Tue Sep 12 13:51:43 CLST 2017"},"sys:store-protocol":null,"sys:store-identifier":null,"sys:node-uuid":null,"cm:lockType":"NODE_LOCK","cm:lockOwner":{"firstName":"Administrator","lastName":"","displayName":"Administrator","userName":"admin"},"cm:lockLifetime":"PERSISTENT","cm:name":"Oper-650012858500","sys:node-dbid":null,"sys:locale":null,"cm:modified":{"iso8601":"2017-09-12T16:52:19.653Z","value":"Tue Sep 12 13:52:19 CLST 2017"}}},
+            "nodeRef": "workspace:\/\/SpacesStore\/6473431f-7311-4e22-8f93-c7c202980e4d",
+            "type": "folder",
+            "name": "Oper-650012858500",
+            "displayName": "Oper-650012858500",
+            "description": "",
+            "modifiedOn": "2017-09-12T13:52:19.653-03:00",
+            "modifiedByUser": "elazo",
+            "modifiedBy": "Enrique Lazo Ureta",
+            "fromDate": "",
+            "size": -1,
+            "mimetype": "application\/octet-stream",
+            "site":
+            {
+                "shortName": "santander",
+                "title": "Santander"
+            },
+            "container": "inboxLibrary",
+            "path": "Carga FEI\/2017\/septiembre\/12",
+            "lastThumbnailModification":
+            [
+            ],
+            "tags": [],
+         "highlighting":
+            {
+            }
+        },
+        {
+         "node": {"isLink":false,"nodeRef":"workspace:\/\/SpacesStore\/25d6eeac-0e3e-40de-93c1-1d7052ad0e0e","permissions":{"inherited":true,"roles":["ALLOWED;GROUP_SITE_SANTANDER_REVISOR_ALZAMIENTOS;SiteCollaborator;INHERITED","ALLOWED;GROUP_site_santander_SiteManager;SiteManager;INHERITED","ALLOWED;GROUP_SITE_SANTANDER_FEI_MANAGER;SiteCollaborator;INHERITED"],"user":{"Delete":false,"Write":true,"CancelCheckOut":false,"ChangePermissions":false,"CreateChildren":true,"Unlock":false}},"isLocked":true,"aspects":["cm:lockable","cm:auditable","sys:referenceable","sys:localized"],"isContainer":true,"type":"cm:folder","properties":{"cm:creator":{"firstName":"Demo","lastName":"Santander FEI Manager","displayName":"Demo Santander FEI Manager","userName":"demo.santander.feimanager"},"cm:modifier":{"firstName":"Demo","lastName":"Santander FEI Manager","displayName":"Demo Santander FEI Manager","userName":"demo.santander.feimanager"},"cm:created":{"iso8601":"2017-09-28T21:13:44.387Z","value":"Thu Sep 28 18:13:44 CLST 2017"},"sys:store-protocol":null,"sys:store-identifier":null,"sys:node-uuid":null,"cm:lockType":"NODE_LOCK","cm:lockOwner":{"firstName":"Administrator","lastName":"","displayName":"Administrator","userName":"admin"},"cm:lockLifetime":"PERSISTENT","cm:name":"Oper-420010217603","sys:node-dbid":null,"sys:locale":null,"cm:modified":{"iso8601":"2017-09-28T21:13:44.922Z","value":"Thu Sep 28 18:13:44 CLST 2017"}}},
+            "nodeRef": "workspace:\/\/SpacesStore\/25d6eeac-0e3e-40de-93c1-1d7052ad0e0e",
+            "type": "folder",
+            "name": "Oper-420010217603",
+            "displayName": "Oper-420010217603",
+            "description": "",
+            "modifiedOn": "2017-09-28T18:13:44.922-03:00",
+            "modifiedByUser": "demo.santander.feimanager",
+            "modifiedBy": "Demo Santander FEI Manager",
+            "fromDate": "",
+            "size": -1,
+            "mimetype": "application\/octet-stream",
+            "site":
+            {
+                "shortName": "santander",
+                "title": "Santander"
+            },
+            "container": "inboxLibrary",
+            "path": "Carga FEI\/2017\/septiembre\/28",
+            "lastThumbnailModification":
+            [
+            ],
+            "tags": [],
+         "highlighting":
+            {
+            }
+        },
+        {
+         "node": {"isLink":false,"nodeRef":"workspace:\/\/SpacesStore\/5829ffcc-4208-4bca-b2db-78f591a2b526","permissions":{"inherited":true,"roles":["ALLOWED;GROUP_SITE_SANTANDER_REVISOR_ALZAMIENTOS;SiteCollaborator;INHERITED","ALLOWED;GROUP_site_santander_SiteManager;SiteManager;INHERITED","ALLOWED;GROUP_SITE_SANTANDER_FEI_MANAGER;SiteCollaborator;INHERITED"],"user":{"Delete":true,"Write":true,"CancelCheckOut":false,"ChangePermissions":true,"CreateChildren":true,"Unlock":true}},"isLocked":true,"aspects":["cm:lockable","cm:auditable","sys:referenceable","sys:localized"],"isContainer":true,"type":"cm:folder","properties":{"cm:creator":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:modifier":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:created":{"iso8601":"2017-10-05T12:25:20.131Z","value":"Thu Oct 05 09:25:20 CLST 2017"},"sys:store-protocol":null,"sys:store-identifier":null,"sys:node-uuid":null,"cm:lockType":"NODE_LOCK","cm:lockOwner":{"firstName":"Administrator","lastName":"","displayName":"Administrator","userName":"admin"},"cm:lockLifetime":"PERSISTENT","cm:name":"Oper-650020098265","sys:node-dbid":null,"sys:locale":null,"cm:modified":{"iso8601":"2017-10-05T12:25:33.761Z","value":"Thu Oct 05 09:25:33 CLST 2017"}}},
+            "nodeRef": "workspace:\/\/SpacesStore\/5829ffcc-4208-4bca-b2db-78f591a2b526",
+            "type": "folder",
+            "name": "Oper-650020098265",
+            "displayName": "Oper-650020098265",
+            "description": "",
+            "modifiedOn": "2017-10-05T09:25:33.761-03:00",
+            "modifiedByUser": "elazo",
+            "modifiedBy": "Enrique Lazo Ureta",
+            "fromDate": "",
+            "size": -1,
+            "mimetype": "application\/octet-stream",
+            "site":
+            {
+                "shortName": "santander",
+                "title": "Santander"
+            },
+            "container": "inboxLibrary",
+            "path": "Carga FEI\/2017\/octubre\/05",
+            "lastThumbnailModification":
+            [
+            ],
+            "tags": [],
+         "highlighting":
+            {
+            }
+        },
+        {
+         "node": {"isLink":false,"nodeRef":"workspace:\/\/SpacesStore\/6d49d7e0-9fea-4f13-8ec1-1fe4e3743565","permissions":{"inherited":true,"roles":["ALLOWED;GROUP_SITE_SANTANDER_REVISOR_ALZAMIENTOS;SiteCollaborator;INHERITED","ALLOWED;GROUP_site_santander_SiteManager;SiteManager;INHERITED","ALLOWED;GROUP_SITE_SANTANDER_FEI_MANAGER;SiteCollaborator;INHERITED"],"user":{"Delete":false,"Write":true,"CancelCheckOut":false,"ChangePermissions":false,"CreateChildren":true,"Unlock":false}},"isLocked":true,"aspects":["cm:lockable","cm:auditable","sys:referenceable","sys:localized"],"isContainer":true,"type":"cm:folder","properties":{"cm:creator":{"firstName":"Michel","lastName":"David Suárez","displayName":"Michel David Suárez","userName":"michel.david"},"cm:modifier":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:created":{"iso8601":"2017-08-11T22:43:17.929Z","value":"Fri Aug 11 18:43:17 CLT 2017"},"sys:store-protocol":null,"sys:store-identifier":null,"sys:node-uuid":null,"cm:lockType":"NODE_LOCK","cm:lockOwner":{"firstName":"Administrator","lastName":"","displayName":"Administrator","userName":"admin"},"cm:lockLifetime":"PERSISTENT","cm:name":"Oper-420010224658","sys:node-dbid":null,"sys:locale":null,"cm:modified":{"iso8601":"2017-10-05T12:24:26.409Z","value":"Thu Oct 05 09:24:26 CLST 2017"}}},
+            "nodeRef": "workspace:\/\/SpacesStore\/6d49d7e0-9fea-4f13-8ec1-1fe4e3743565",
+            "type": "folder",
+            "name": "Oper-420010224658",
+            "displayName": "Oper-420010224658",
+            "description": "",
+            "modifiedOn": "2017-10-05T09:24:26.409-03:00",
+            "modifiedByUser": "elazo",
+            "modifiedBy": "Enrique Lazo Ureta",
+            "fromDate": "",
+            "size": -1,
+            "mimetype": "application\/octet-stream",
+            "site":
+            {
+                "shortName": "santander",
+                "title": "Santander"
+            },
+            "container": "inboxLibrary",
+            "path": "Carga FEI\/2017\/agosto\/11",
+            "lastThumbnailModification":
+            [
+            ],
+            "tags": [],
+         "highlighting":
+            {
+            }
+        },
+        {
+         "node": {"isLink":false,"nodeRef":"workspace:\/\/SpacesStore\/44fca111-7e7e-4190-8014-6ca0a1368673","permissions":{"inherited":true,"roles":["ALLOWED;GROUP_SITE_SANTANDER_REVISOR_ALZAMIENTOS;SiteCollaborator;INHERITED","ALLOWED;GROUP_site_santander_SiteManager;SiteManager;INHERITED","ALLOWED;GROUP_SITE_SANTANDER_FEI_MANAGER;SiteCollaborator;INHERITED"],"user":{"Delete":true,"Write":true,"CancelCheckOut":false,"ChangePermissions":true,"CreateChildren":true,"Unlock":true}},"isLocked":true,"aspects":["cm:lockable","cm:auditable","sys:referenceable","sys:localized"],"isContainer":true,"type":"cm:folder","properties":{"cm:creator":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:modifier":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:created":{"iso8601":"2017-10-05T12:28:55.033Z","value":"Thu Oct 05 09:28:55 CLST 2017"},"sys:store-protocol":null,"sys:store-identifier":null,"sys:node-uuid":null,"cm:lockType":"NODE_LOCK","cm:lockOwner":{"firstName":"Administrator","lastName":"","displayName":"Administrator","userName":"admin"},"cm:lockLifetime":"PERSISTENT","cm:name":"Oper-650020078701","sys:node-dbid":null,"sys:locale":null,"cm:modified":{"iso8601":"2017-10-05T13:01:52.728Z","value":"Thu Oct 05 10:01:52 CLST 2017"}}},
+            "nodeRef": "workspace:\/\/SpacesStore\/44fca111-7e7e-4190-8014-6ca0a1368673",
+            "type": "folder",
+            "name": "Oper-650020078701",
+            "displayName": "Oper-650020078701",
+            "description": "",
+            "modifiedOn": "2017-10-05T10:01:52.728-03:00",
+            "modifiedByUser": "elazo",
+            "modifiedBy": "Enrique Lazo Ureta",
+            "fromDate": "",
+            "size": -1,
+            "mimetype": "application\/octet-stream",
+            "site":
+            {
+                "shortName": "santander",
+                "title": "Santander"
+            },
+            "container": "inboxLibrary",
+            "path": "Carga FEI\/2017\/octubre\/05",
+            "lastThumbnailModification":
+            [
+            ],
+            "tags": [],
+         "highlighting":
+            {
+            }
+        },
+        {
+         "node": {"isLink":false,"nodeRef":"workspace:\/\/SpacesStore\/5728cf92-5528-4bc2-96a0-eb4ebe51a8c0","permissions":{"inherited":true,"roles":["ALLOWED;GROUP_SITE_SANTANDER_REVISOR_ALZAMIENTOS;SiteCollaborator;INHERITED","ALLOWED;GROUP_site_santander_SiteManager;SiteManager;INHERITED","ALLOWED;GROUP_SITE_SANTANDER_FEI_MANAGER;SiteCollaborator;INHERITED"],"user":{"Delete":true,"Write":true,"CancelCheckOut":false,"ChangePermissions":true,"CreateChildren":true,"Unlock":true}},"isLocked":true,"aspects":["cm:lockable","cm:auditable","sys:referenceable","sys:localized"],"isContainer":true,"type":"cm:folder","properties":{"cm:creator":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:modifier":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:created":{"iso8601":"2017-10-05T12:28:26.098Z","value":"Thu Oct 05 09:28:26 CLST 2017"},"sys:store-protocol":null,"sys:store-identifier":null,"sys:node-uuid":null,"cm:lockType":"NODE_LOCK","cm:lockOwner":{"firstName":"Administrator","lastName":"","displayName":"Administrator","userName":"admin"},"cm:lockLifetime":"PERSISTENT","cm:name":"Oper-650020081176","sys:node-dbid":null,"sys:locale":null,"cm:modified":{"iso8601":"2017-10-05T12:28:26.278Z","value":"Thu Oct 05 09:28:26 CLST 2017"}}},
+            "nodeRef": "workspace:\/\/SpacesStore\/5728cf92-5528-4bc2-96a0-eb4ebe51a8c0",
+            "type": "folder",
+            "name": "Oper-650020081176",
+            "displayName": "Oper-650020081176",
+            "description": "",
+            "modifiedOn": "2017-10-05T09:28:26.278-03:00",
+            "modifiedByUser": "elazo",
+            "modifiedBy": "Enrique Lazo Ureta",
+            "fromDate": "",
+            "size": -1,
+            "mimetype": "application\/octet-stream",
+            "site":
+            {
+                "shortName": "santander",
+                "title": "Santander"
+            },
+            "container": "inboxLibrary",
+            "path": "Carga FEI\/2017\/octubre\/05",
+            "lastThumbnailModification":
+            [
+            ],
+            "tags": [],
+         "highlighting":
+            {
+            }
+        },
+        {
+         "node": {"isLink":false,"nodeRef":"workspace:\/\/SpacesStore\/949343cd-fabc-4935-9261-d2d170e22f43","permissions":{"inherited":true,"roles":["ALLOWED;GROUP_SITE_SANTANDER_REVISOR_ALZAMIENTOS;SiteCollaborator;INHERITED","ALLOWED;GROUP_site_santander_SiteManager;SiteManager;INHERITED","ALLOWED;GROUP_SITE_SANTANDER_FEI_MANAGER;SiteCollaborator;INHERITED"],"user":{"Delete":true,"Write":true,"CancelCheckOut":false,"ChangePermissions":true,"CreateChildren":true,"Unlock":true}},"isLocked":true,"aspects":["cm:lockable","cm:auditable","sys:referenceable","sys:localized"],"isContainer":true,"type":"cm:folder","properties":{"cm:creator":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:modifier":{"firstName":"Enrique","lastName":"Lazo Ureta","displayName":"Enrique Lazo Ureta","userName":"elazo"},"cm:created":{"iso8601":"2017-10-05T15:14:35.359Z","value":"Thu Oct 05 12:14:35 CLST 2017"},"sys:store-protocol":null,"sys:store-identifier":null,"sys:node-uuid":null,"cm:lockType":"NODE_LOCK","cm:lockOwner":{"firstName":"Administrator","lastName":"","displayName":"Administrator","userName":"admin"},"cm:lockLifetime":"PERSISTENT","cm:name":"Oper-650012855556","sys:node-dbid":null,"sys:locale":null,"cm:modified":{"iso8601":"2017-10-05T15:14:35.686Z","value":"Thu Oct 05 12:14:35 CLST 2017"}}},
+            "nodeRef": "workspace:\/\/SpacesStore\/949343cd-fabc-4935-9261-d2d170e22f43",
+            "type": "folder",
+            "name": "Oper-650012855556",
+            "displayName": "Oper-650012855556",
+            "description": "",
+            "modifiedOn": "2017-10-05T12:14:35.686-03:00",
+            "modifiedByUser": "elazo",
+            "modifiedBy": "Enrique Lazo Ureta",
+            "fromDate": "",
+            "size": -1,
+            "mimetype": "application\/octet-stream",
+            "site":
+            {
+                "shortName": "santander",
+                "title": "Santander"
+            },
+            "container": "inboxLibrary",
+            "path": "Carga FEI\/2017\/octubre\/05",
+            "lastThumbnailModification":
+            [
+            ],
+            "tags": [],
+         "highlighting":
+            {
+            }
+        }
+    ],
+    "spellcheck":
+    {
+    }
+}

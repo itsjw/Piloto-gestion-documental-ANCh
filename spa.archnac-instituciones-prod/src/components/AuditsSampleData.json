@@ -1,0 +1,47 @@
+[
+    {
+        "evento": "Actualización metadatos",  
+        "producer_unit": "01 Dirección", 
+        "serie": "100 Oficios Ordinarios", 
+        "tipo_documental": "Oficio Ordinario", 
+        "fecha": "2017/08/09 10:00", 
+        "usuario": "elazo", 
+        "object": "OF.ORD. 2017-1508"
+    },
+    {
+        "evento": "Ingesta",  
+        "producer_unit": "01 Dirección", 
+        "serie": "100 Oficios Ordinarios", 
+        "tipo_documental": "Oficio Ordinario", 
+        "fecha": "2017/08/09 10:00", 
+        "usuario": "elazo", 
+        "object": "OF.ORD. 2017-1508"
+    },
+    {
+        "evento": "Conservación",  
+        "producer_unit": "01 Dirección", 
+        "serie": "100 Oficios Ordinarios", 
+        "tipo_documental": "Oficio Ordinario", 
+        "fecha": "2017/08/09 10:00", 
+        "usuario": "elazo", 
+        "object": "OF.ORD. 2017-1508"
+    },
+    {
+        "evento": "Transferencia",  
+        "producer_unit": "01 Dirección", 
+        "serie": "100 Oficios Ordinarios", 
+        "tipo_documental": "Oficio Ordinario", 
+        "fecha": "2017/08/09 10:00", 
+        "usuario": "elazo", 
+        "object": "OF.ORD. 2017-1508"
+    },
+    {
+        "evento": "Consulta de Documento",  
+        "producer_unit": "01 Dirección", 
+        "serie": "100 Oficios Ordinarios", 
+        "tipo_documental": "Oficio Ordinario", 
+        "fecha": "2017/08/09 10:00", 
+        "usuario": "elazo", 
+        "object": "OF.ORD. 2017-1508"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "achn_identificador": "Identificador",
+    "achn_fecha_captura": "Fecha de Captura",
+    "cod_clasificacion": "Código de clasificación",
+    "cm_name": "Título",
+    "achn_serie": "Serie",
+    "achn_producer_unit": "Unidad productora",
+    "achn:unidad_simple": "Unidad Documental Simple",
+    "achn:unidad_compuesta": "Unidad Documental Compuesta",
+    "achn:serie": "Serie",
+    "achn:institucion_productora": "Institución productora",
+    "achn:unidad_productora": "Institución productora",
+    "nivel_clasificacion": "Nivel de clasificación",
+    "fecha_inicio": "Fecha de Inicio",
+    "contenido": "Contenido",
+    "disposition": "Fecha de dispocisión",
+
+    "{http://www.dox.cl/model/content/1.0}record": "Unidad Documental Simple"
+}

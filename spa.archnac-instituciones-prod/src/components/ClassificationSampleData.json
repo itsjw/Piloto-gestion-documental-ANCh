@@ -1,0 +1,263 @@
+{
+    "type": "achn:institucion_productora", 
+    "properties": {
+        "achn:cod_clasificacion": "080106",
+        "achn:numero_ordenamiento": 23,
+        "achn:identificador": "080106",
+        "achn:tipo_entidad": "Organismo Público",
+        "achn:estatuto_juridico": "Ley 20322",
+        "cm:created": "2017-07-05T09:30:00.000",
+        "achn:fecha_captura": "2017-07-05T09:30:00.000",
+        "cm:name": "Unidad Administradora de los Tribunales Tributarios y Aduaneros",
+        "achn:area_relaciones": "Ministerio de Hacienda\nSubsecretaría de Hacienda",
+        "achn:estructura_interna": "1. Dirección\n2. Auditoria\n3. Comunicaciones\n4. Gestión de las Personas",
+        "achn:funciones": "080106.F1 – Pago de Servicios y de las Remuneraciones del Personal de los Tribunales Tributarios y Aduaneros.\n080106.F2 – Provisión de Inmuebles\n080106.F3 – Abastecimiento de materias de trabajo y mobiliario.\n080106.F4 – Suministro y soporte de los medios informáticos, red computacional y del sitio en Internet de los Tribunales Tributarios y Aduaneros.\n080106.F5 – Ejecución de la administración financiera de los Tribunales. Los Tribunales deberán rendir cuenta detallada de la inversión de estos fondos, debiendo la Unidad llevar una cuenta para este fin.\n080106.F6 – La organización de cursos y conferencias destinadas al perfeccionamiento del personal de los Tribunales Tributarios y Aduaneros.\n080106.F7 – Todas las demás necesarias para el correcto funcionamiento administrativo de los Tribunales Tributarios y Aduaneros."
+    },
+    "assocs": {
+        "cm:contains": [
+            { 
+                "type": "achn:unidad_productora",
+                "properties": {
+                    "cm:name": "Dirección",
+                    "achn:identificador": "080106_01",
+                    "achn:cod_clasificacion": "01",
+                    "cm:created": "2017-07-05T09:30:00.000",
+                    "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                    "achn:area_relaciones": "Ministerio de Hacienda – Subsecretaría de Hacienda",
+                    "achn:nivel_clasificacion": "Sección"
+                },
+                "assocs": {
+                    "cm:contains": [
+                        {
+                            "type": "achn:unidad_productora",
+                            "properties": {
+                                "cm:name": "Dirección",
+                                "achn:identificador": "080106_01_A",
+                                "achn:cod_clasificacion": "A",
+                                "cm:created": "2017-07-05T09:30:00.000",
+                                "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                                "achn:area_relaciones": "Ministerio de Hacienda – Subsecretaría de Hacienda",
+                                "achn:nivel_clasificacion": "Sección"
+                            },
+                            "assocs": { 
+                                "cm:contains": [
+                                    {
+                                        "type": "achn:serie",
+                                        "properties": {
+                                            "cm:name": "Oficios Ordinarios",
+                                            "achn:identificador": "080106_01_A_100",
+                                            "achn:cod_clasificacion": "100",
+                                            "cm:created": "2017-07-05T09:30:00.000",
+                                            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                                            "achn:nivel_clasificacion": "Serie",
+                                            "achn:dispositionRef": "workspace://SpacesStore/1234-567-890",
+                                            "achn:contenido": "Los oficios ordinarios de la Oficina de Partes de UATTA reflejan las comunicaciones internas generadas dentro de la misma institución, así como las comunicaciones con el resto de la Administración Pública. Son documentos oficiales propensos de ser transferidos al Archivo Nacional."
+                                        },
+                                        "assocs": {
+                                            "cm:contains": [
+                                                {
+                                                   "type": "achn:unidad_simple",
+                                                    "properties": {
+                                                        "achn:cod_clasificacion": "0023",
+                                                        "achn:numero_ordenamiento": 23,
+                                                        "achn:identificador": "080106_01_A_100_0023",
+                                                        "achn:tipo_documental": "Oficio Ordinario",
+                                                        "achn:autor": "Enrique Lazo Ureta",
+                                                        "cm:created": "2017-07-05T09:30:00.000",
+                                                        "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                                                        "cm:name": "OF.ORD. 2017-1508",
+                                                        "achn:software": "Adobe Acrobat 2017.012.20093",
+                                                        "mimetype": "application/pdf",
+                                                        "achn:volumen": 466944,
+                                                        "achn:responsable_fea": "Enrique Lazo Ureta",
+                                                        "achn:fea_noderef": "workspace://SpacesStore/12345-678",
+                                                        "achn:soporte": "Mixto (papel y digital)"
+                                                    } 
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "type": "achn:serie",
+                                        "properties": {
+                                            "cm:name": "Oficios Circulares",
+                                            "achn:identificador": "080106_01_A_200",
+                                            "achn:cod_clasificacion": "200",
+                                            "cm:created": "2017-07-05T09:30:00.000",
+                                            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                                            "achn:nivel_clasificacion": "Serie",
+                                            "achn:dispositionRef": "workspace://SpacesStore/1234-567-890",
+                                            "achn:contenido": "Los oficios circulares de la Oficina de Partes de UATTA reflejan las comunicaciones internas generadas dentro de la misma institución, así como las comunicaciones con el resto de la Administración Pública. Son documentos oficiales propensos de ser transferidos al Archivo Nacional."
+                                        }
+                                    },
+                                    {
+                                        "type": "achn:serie",
+                                        "properties": {
+                                            "cm:name": "Oficios Reservados",
+                                            "achn:identificador": "080106_01_A_300",
+                                            "achn:cod_clasificacion": "300",
+                                            "cm:created": "2017-07-05T09:30:00.000",
+                                            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                                            "achn:nivel_clasificacion": "Serie",
+                                            "achn:dispositionRef": "workspace://SpacesStore/1234-567-890",
+                                            "achn:contenido": "Los oficios ordinarios de la Oficina de Partes de UATTA reflejan las comunicaciones internas generadas dentro de la misma institución, así como las comunicaciones con el resto de la Administración Pública. Son documentos oficiales propensos de ser transferidos al Archivo Nacional."
+                                        }
+                                    },
+                                    {
+                                        "type": "achn:serie",
+                                        "properties": {
+                                            "cm:name": "Oficios Secretos",
+                                            "achn:identificador": "080106_01_A_400",
+                                            "achn:cod_clasificacion": "400",
+                                            "cm:created": "2017-07-05T09:30:00.000",
+                                            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                                            "achn:nivel_clasificacion": "Serie",
+                                            "achn:dispositionRef": "workspace://SpacesStore/1234-567-890",
+                                            "achn:contenido": "Los oficios ordinarios de la Oficina de Partes de UATTA reflejan las comunicaciones internas generadas dentro de la misma institución, así como las comunicaciones con el resto de la Administración Pública. Son documentos oficiales propensos de ser transferidos al Archivo Nacional."
+                                        }
+                                    },
+                                    {
+                                        "type": "achn:serie",
+                                        "properties": {
+                                            "cm:name": "Decretos Excentos",
+                                            "achn:identificador": "080106_01_A_500",
+                                            "achn:cod_clasificacion": "500",
+                                            "cm:created": "2017-07-05T09:30:00.000",
+                                            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                                            "achn:nivel_clasificacion": "Serie",
+                                            "achn:dispositionRef": "workspace://SpacesStore/1234-567-890",
+                                            "achn:contenido": "Los oficios ordinarios de la Oficina de Partes de UATTA reflejan las comunicaciones internas generadas dentro de la misma institución, así como las comunicaciones con el resto de la Administración Pública. Son documentos oficiales propensos de ser transferidos al Archivo Nacional."
+                                        }
+                                    },
+                                    {
+                                        "type": "achn:serie",
+                                        "properties": {
+                                            "cm:name": "Resoluciones con TDR",
+                                            "achn:identificador": "080106_01_A_600",
+                                            "achn:cod_clasificacion": "600",
+                                            "cm:created": "2017-07-05T09:30:00.000",
+                                            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                                            "achn:nivel_clasificacion": "Serie",
+                                            "achn:dispositionRef": "workspace://SpacesStore/1234-567-890",
+                                            "achn:contenido": "Los oficios ordinarios de la Oficina de Partes de UATTA reflejan las comunicaciones internas generadas dentro de la misma institución, así como las comunicaciones con el resto de la Administración Pública. Son documentos oficiales propensos de ser transferidos al Archivo Nacional."
+                                        }
+                                    },
+                                    {
+                                        "type": "achn:serie",
+                                        "properties": {
+                                            "cm:name": "Resoluciones Exentas de Recursos Humanos",
+                                            "achn:identificador": "080106_01_A_700",
+                                            "achn:cod_clasificacion": "700",
+                                            "cm:created": "2017-07-05T09:30:00.000",
+                                            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                                            "achn:nivel_clasificacion": "Serie",
+                                            "achn:dispositionRef": "workspace://SpacesStore/1234-567-890",
+                                            "achn:contenido": "Los oficios ordinarios de la Oficina de Partes de UATTA reflejan las comunicaciones internas generadas dentro de la misma institución, así como las comunicaciones con el resto de la Administración Pública. Son documentos oficiales propensos de ser transferidos al Archivo Nacional."
+                                        }
+                                    },
+                                    {
+                                        "type": "achn:serie",
+                                        "properties": {
+                                            "cm:name": "Resoluciones Exentas General",
+                                            "achn:identificador": "080106_01_A_800",
+                                            "achn:cod_clasificacion": "800",
+                                            "cm:created": "2017-07-05T09:30:00.000",
+                                            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                                            "achn:nivel_clasificacion": "Serie",
+                                            "achn:dispositionRef": "workspace://SpacesStore/1234-567-890",
+                                            "achn:contenido": "Los oficios ordinarios de la Oficina de Partes de UATTA reflejan las comunicaciones internas generadas dentro de la misma institución, así como las comunicaciones con el resto de la Administración Pública. Son documentos oficiales propensos de ser transferidos al Archivo Nacional."
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "achn:unidad_productora",
+                            "properties": {
+                                "cm:name": "Auditoría",
+                                "achn:identificador": "080106_02",
+                                "achn:cod_clasificacion": "02",
+                                "cm:created": "2017-07-05T09:30:00.000",
+                                "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                                "achn:area_relaciones": "Ministerio de Hacienda – Subsecretaría de Hacienda",
+                                "achn:nivel_clasificacion": "Sección"
+                            }
+                        },
+                        {
+                            "type": "achn:unidad_productora",
+                            "properties": {
+                                "cm:name": "Unidad de Comunicaciones",
+                                "achn:identificador": "080106_03",
+                                "achn:cod_clasificacion": "03",
+                                "cm:created": "2017-07-05T09:30:00.000",
+                                "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                                "achn:area_relaciones": "Ministerio de Hacienda – Subsecretaría de Hacienda",
+                                "achn:nivel_clasificacion": "Sección"
+                            }
+                        },
+                        {
+                            "type": "achn:unidad_productora",
+                            "properties": {
+                                "cm:name": "Dpto. de Gestión de las Personas",
+                                "achn:identificador": "080106_04",
+                                "achn:cod_clasificacion": "04",
+                                "cm:created": "2017-07-05T09:30:00.000",
+                                "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                                "achn:area_relaciones": "Ministerio de Hacienda – Subsecretaría de Hacienda",
+                                "achn:nivel_clasificacion": "Sección"
+                            }
+                        },
+                        {
+                            "type": "achn:unidad_productora",
+                            "properties": {
+                                "cm:name": "Dpto. de Gestión y Operaciones",
+                                "achn:identificador": "080106_05",
+                                "achn:cod_clasificacion": "05",
+                                "cm:created": "2017-07-05T09:30:00.000",
+                                "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                                "achn:area_relaciones": "Ministerio de Hacienda – Subsecretaría de Hacienda",
+                                "achn:nivel_clasificacion": "Sección"
+                            }
+                        },
+                        {
+                            "type": "achn:unidad_productora",
+                            "properties": {
+                                "cm:name": "Dpto. de Asesoría Jurídica",
+                                "achn:identificador": "080106_06",
+                                "achn:cod_clasificacion": "06",
+                                "cm:created": "2017-07-05T09:30:00.000",
+                                "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                                "achn:area_relaciones": "Ministerio de Hacienda – Subsecretaría de Hacienda",
+                                "achn:nivel_clasificacion": "Sección"
+                            }
+                        },
+                        {
+                            "type": "achn:unidad_productora",
+                            "properties": {
+                                "cm:name": "Depto. de Finanzas",
+                                "achn:identificador": "080106_07",
+                                "achn:cod_clasificacion": "07",
+                                "cm:created": "2017-07-05T09:30:00.000",
+                                "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                                "achn:area_relaciones": "Ministerio de Hacienda – Subsecretaría de Hacienda",
+                                "achn:nivel_clasificacion": "Sección"
+                            }
+                        },
+                        {
+                            "type": "achn:unidad_productora",
+                            "properties": {
+                                "cm:name": "Depto. de Informática",
+                                "achn:identificador": "080106_08",
+                                "achn:cod_clasificacion": "08",
+                                "cm:created": "2017-07-05T09:30:00.000",
+                                "achn:fecha_captura": "2017-07-05T09:30:00.000",
+                                "achn:area_relaciones": "Ministerio de Hacienda – Subsecretaría de Hacienda",
+                                "achn:nivel_clasificacion": "Sección"
+                            }
+                        }
+                    ]   
+                }
+            }
+        ]
+    }
+}

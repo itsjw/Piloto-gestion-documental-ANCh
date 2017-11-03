@@ -1,0 +1,16 @@
+[
+    {
+        "type": "achn:config_disposicion",
+        "nodeRef": "workspace://SpacesStore/1234-567-890",
+        "properties": {
+            "cm:name": "Oficios Ordinarios",
+            "achn:identificador": "080106_01_A_100",
+            "achn:cod_clasificacion": "100",
+            "cm:created": "2017-07-05T09:30:00.000",
+            "achn:fecha_captura": "2017-07-05T09:30:00.000",
+            "achn:nivel_clasificacion": "Serie",
+            "achn:dispositionRef": "workspace://SpacesStore/1234-567-890",
+            "achn:contenido": "Los oficios ordinarios de la Oficina de Partes de UATTA reflejan las comunicaciones internas generadas dentro de la misma institución, así como las comunicaciones con el resto de la Administración Pública. Son documentos oficiales propensos de ser transferidos al Archivo Nacional."
+        }
+    }
+]
