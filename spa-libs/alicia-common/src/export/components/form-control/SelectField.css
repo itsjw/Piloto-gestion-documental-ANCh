@@ -1,0 +1,16 @@
+/* 
+* @Author: mdavi
+* @Date:   2017-09-26 11:11:01
+* @Last Modified by:   mdavi
+* @Last Modified time: 2017-09-26 11:16:54
+*/
+
+
+.has-error .Select-control {
+    border-color: #f6675d;
+}
+
+.has-error .is-focused:not(.is-open) > .Select-control {
+  border-color: #f6675d;
+  box-shadow: none;
+}

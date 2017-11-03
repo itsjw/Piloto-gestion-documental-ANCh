@@ -1,0 +1,50 @@
+{
+  "name": "alicia-common",
+  "version": "0.1.0",
+  "private": true,
+  "main": "lib/index.js",
+  "license": "Creative Commons Legal Code Attribution-NonCommercial-NoDerivs 3.0",
+  "dependencies": {
+    "alicia-ui": "git+ssh://git@bitbucket.org/teamdox/webclient.dox.platform-core.ui.template.git",
+    "classnames": "^2.2.5",
+    "history": "^4.7.2",
+    "moment": "^2.18.1",
+    "normalize.css": "^7.0.0",
+    "prop-types": "^15.6.0",
+    "qhistory": "^1.0.0",
+    "ramda": "^0.24.1",
+    "rc-tree": "^1.7.7",
+    "react": "^15.6.1",
+    "react-bootstrap": "^0.31.2",
+    "react-bootstrap-button-loader": "^1.0.8",
+    "react-bs-notifier": "^4.3.2",
+    "react-cookie": "^2.0.8",
+    "react-datetime": "^2.10.3",
+    "react-dom": "^15.6.1",
+    "react-intl": "^2.3.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^5.0.0-alpha.8",
+    "react-scripts": "1.0.11",
+    "react-select": "^1.0.0-rc.10",
+    "redux": "^3.7.2",
+    "redux-form": "^7.0.3",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "PORT=3008 react-scripts start",
+    "build": "react-scripts build",
+    "lib": "babel src/export --out-dir lib --copy-files",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "i18n": "node node_modules/aliciadev-utils/lib/i18n.js"
+  },
+  "devDependencies": {
+    "aliciadev-utils": "file:../webclient.dox.platform-dev.utils/",
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}

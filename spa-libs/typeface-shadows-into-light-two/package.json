@@ -1,0 +1,15 @@
+{
+  "name": "typeface-shadows-into-light-two",
+  "version": "0.0.35",
+  "description": "Shadows Into Light Two typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "shadows-into-light-two"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT"
+}

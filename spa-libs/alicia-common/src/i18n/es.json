@@ -1,0 +1,9 @@
+{
+  "username": "Nombre de usuario",
+  "password": "Contraseña",
+  "submit_button": "Enviar",
+  "alfresco_login_form": "Formulario de Login con Alfresco",
+  "alfresco_api": "Alfresco Api",
+  "validation_required": "Campo requerido",
+  "combine_messages": "Combinar Mensajes"
+}

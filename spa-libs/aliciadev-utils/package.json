@@ -1,0 +1,20 @@
+{
+  "name": "aliciadev-utils",
+  "version": "1.0.0",
+  "description": "Paquete de funciones utiles para el desarrollo",
+  "main": "index.js",
+  "repository": "git@bitbucket.org:teamdox/webclient.dox.platform-dev.utils.git",
+  "author": "Michel David",
+  "license": "MIT",
+  "scripts": {
+    "lib": "babel src/ --out-dir lib --copy-files --presets es2015,stage-2",
+    "i18n": "babel-node src/i18n.js --presets es2015,stage-2 "
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "ramda": "^0.24.1"
+  }
+}

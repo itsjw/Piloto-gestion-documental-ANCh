@@ -1,0 +1,39 @@
+{
+  "name": "alicia-ui",
+  "version": "1.0.0",
+  "description": "Paquete de Look and Feel. Contiene todo el css base para los componentes totalcheck",
+  "main": "dist/index.css",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "material-design-iconic-font": "^2.2.0",
+    "material-shadows": "^3.0.1",
+    "normalize.css": "^7.0.0",
+    "roboto-fontface-pre-css": "^0.0.3",
+    "typeface-shadows-into-light-two": "0.0.35"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.5",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "file-loader": "^0.11.2",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.5",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.5.5"
+  },
+  "scripts": {
+    "start": "webpack --config webpack.config.js",
+    "build": "lessc src/less/app.less dist/css/app.css && cp -r src/fonts dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/teamdox/webclient.dox.platform-core.ui.template.git"
+  },
+  "keywords": [
+    "totalcheck.cl"
+  ],
+  "author": "Michel David",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/teamdox/look-and-feel.core.totalcheck#readme"
+}

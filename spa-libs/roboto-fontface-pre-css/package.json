@@ -1,0 +1,29 @@
+{
+  "name": "roboto-fontface-pre-css",
+  "version": "0.0.3",
+  "description": "A simple package providing the Roboto fontface.",
+  "main": "css/roboto-fontface.css",
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jerrysdesign/roboto-fontface-pre-css.git"
+  },
+  "keywords": [
+    "roboto",
+    "font",
+    "fontface"
+  ],
+  "author": "JJ Hung <jerry@junnnnj.com> (http://junnnnj.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jerrysdesign/roboto-fontface-pre-css/issues"
+  },
+  "homepage": "https://github.com/jerrysdesign/roboto-fontface-pre-css",
+  "devDependencies": {
+    "less": "2.6.0",
+    "node-sass": "3.4.2",
+    "stylus": "0.54.2"
+  }
+}
